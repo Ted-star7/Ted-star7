@@ -7,9 +7,14 @@
 🔹 ⚡ Fun fact: I’m an avid board game enthusiast and tech enthusiast!
 
 ## Connect with me:
-- 🌐 [Portfolio](https://teddy-portfolio.vercel.app/)
+- 🌐 [Portfolio](https://teddy-portfolio.vercel.app/) 
 - 💼 [LinkedIn](https://www.linkedin.com/in/teddy-kibuthu-926959287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 📧 [Email](mailto:kibuthuteddy@gmail.com)
+  
+## Checkout My Website
+Visit my personal portfolio to explore my projects, skills, and more!
+
+[![Teddy's Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://teddy-portfolio.vercel.app/)
 
 ## Languages and Tools:
 <p align="left">
