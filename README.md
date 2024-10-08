@@ -31,7 +31,8 @@
 
 ## WakaTime Stats:
 <!-- Wakatime integration -->
-[![Teddy's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bigted&layout=compact)](https://wakatime.com/Bigted)
+[![Teddy's WakaTime Coding Time](https://wakatime.com/badge/user/17f4f664-ac11-40f6-8259-8d0c26838a2d.svg)](https://wakatime.com/Bigted)
+
 
 
 ---
