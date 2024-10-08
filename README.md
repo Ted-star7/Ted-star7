@@ -8,7 +8,7 @@
 
 ## Connect with me:
 - 🌐 [Portfolio](https://teddy-portfolio.vercel.app/)
-- 💼 [LinkedIn](www.linkedin.com/in/teddy-kibuthu-926959287)
+- 💼 [LinkedIn](https://www.linkedin.com/in/teddy-kibuthu-926959287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 📧 [Email](mailto:kibuthuteddy@gmail.com)
 
 ## Languages and Tools:
