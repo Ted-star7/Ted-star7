@@ -3,18 +3,18 @@
 🔹 Turning Ideas into Reality through Code.  
 🔹 **Full-Stack Developer** with a passion for building responsive and dynamic web applications.  
 🔹 Currently learning **Android Development** using **Java** and exploring **3D Websites** with **Angular** and **Three.js**.  
-🔹 📅 2024 Goals: Dive deeper into **AI** and **Web3** technologies.  
+🔹 📅 2025 Goals: Dive deeper into **AI** and **Web3** technologies.  
 🔹 ⚡ Fun fact: I’m an avid board game enthusiast and tech enthusiast!
 
 ## Connect with me:
-- 🌐 [Portfolio](https://teddy-portfolio.vercel.app/) 
+- 🌐 [Portfolio](https://teddy-portfolio-2flk.vercel.app/) 
 - 💼 [LinkedIn](https://www.linkedin.com/in/teddy-kibuthu-926959287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 📧 [Email](mailto:kibuthuteddy@gmail.com)
   
 ## Checkout My Website
 Visit my personal portfolio to explore my projects, skills, and more!
 
-[![Teddy's Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://teddy-portfolio.vercel.app/)
+[![Teddy's Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://teddy-portfolio-2flk.vercel.app/)
 
 ## Languages and Tools:
 <p align="left">
